@@ -4,7 +4,7 @@ Your ultimate curated guide to eating in Tokyo — from budget ramen joints to M
 This interactive app helps locals, travelers, and food lovers explore 100+ of the city's best restaurants, filtered by price, location, and cuisine.
 
 
-![Screenshot](screenshots/app.png)
+![Tokyo Eats Guide App](images/app.png)
 
 ---
 
