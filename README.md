@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-tokyo-eats-guide/
+tokyo_eats_guide/
 ├── app.py                # Streamlit frontend logic
 ├── restaurants.csv       # Main data source (100+ listings)
 ├── requirements.txt      # Dependencies
