@@ -31,7 +31,7 @@ This interactive app helps locals, travelers, and food lovers explore 100+ of th
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/tokyo_eats_guide.git
+   git clone https://github.com/LilyEngineer/tokyo_eats_guide.git
    cd tokyo_eats_guide
 
 pip install -r requirements.txt
