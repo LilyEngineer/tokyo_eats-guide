@@ -5,7 +5,7 @@ This interactive app helps locals, travelers, and food lovers explore 100+ of th
 
 
 Here's a screenshot of the app:
-![App Screenshot](images/Screenshot 2025-05-30 204526.png)
+![App Screenshot]([images/Screenshot 2025-05-30 204526.png](https://github.com/LilyEngineer/tokyo_eats_guide/blob/fb80739e49d4f95645195ffe4ffc80914c2adb16/images/Screenshot%202025-05-30%20204526.png))
 
 ---
 
